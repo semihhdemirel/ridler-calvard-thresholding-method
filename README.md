@@ -11,3 +11,10 @@ Subsequently, new threshold value is calculated by the equation 2.
 Then again, values lower than the threshold value are divided into two parts as background and higher values as foreground. 
 The average of the pixel values of these two parts is recalculated and a new threshold value is calculated with equation 2. 
 This cycle continues until there is little or no change in the threshold value. At the end of the loop, the final threshold value is found.
+<br>
+### Original Image
+![GitHub Logo](/images/plane.jpg)
+<br>
+### Output:
+Threshold value was found 134.84 by using ridler-calvard.py<br>
+![GitHub Logo](/images/plane_binary.jpg)
