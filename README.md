@@ -16,5 +16,5 @@ This cycle continues until there is little or no change in the threshold value. 
 ![GitHub Logo](/images/plane.jpg)
 <br>
 ### Output:
-Threshold value was calculated 134.84 by using ridler-calvard.py<br>
+The threshold value was calculated 134.84 by using ridler-calvard.py<br>
 ![GitHub Logo](/images/plane_binary.jpg)
